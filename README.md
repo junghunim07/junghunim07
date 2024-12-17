@@ -1,4 +1,4 @@
-# 👨‍🔧 Lim Jung Hun
+# :man Lim Jung Hun
 
 ## 👋 INTRODUCE
 
@@ -8,7 +8,8 @@
 
 ### 💕 I'm interested in  
   - Object-oriented design
-  - [SoftWare Architecture](https://courageous-asteroid-4e0.notion.site/497a9896b68f4b70b9eb3e5485d22066?pvs=4)
+  - SoftWare Architecture
+  - 
 
 ## 📖 Education
 
@@ -31,15 +32,13 @@
   </thead> 
   <tbody> 
     <tr> 
-      <td>
+      <th>
         <strong><a href="https://github.com/junghunim07/busthecall" target="_blank">BusTheCall</a></strong>
-      </td> 
-      <td>
-        <div style="text-align:center;">
-          4학년 캡스톤 디자인 프로젝트<br>
+      </th> 
+      <th>
+        4학년 캡스톤 디자인 프로젝트<br>
           <strong>버스 승하차 예약 및 알림 애플리케이션</strong>
-        </div>
-      </td> 
+      </th> 
       <td> 
         - 버스 및 정류장 검색 기능<br> 
         - 비콘을 활용한 승객 위치 추정<br> 
@@ -55,36 +54,48 @@
 ## 📄 Resume & Certificate
 * Not yet.. But
 
-<div align="center">
-  <h2>🛠️  Tech Stack</h2>
-</div>
+## 🛠️Tech Stack
 
-<div align="center">
-  <h4>Language</h4>
+###### Language
   <p> 
     <img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> 
   </p> 
-  <h4>Framework & Other System</h4> 
+  
+###### Framework & Other System
   <p> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
   </p> 
-  <h4>Infra</h4>
+  
+###### Infra
   <p> 
     <img src="https://img.shields.io/badge/Apache%20Tomcat-FF8C00?style=flat&logo=apache-tomcat&logoColor=white"> 
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
   </p>
-</div>
 
+## 🔎Problem Solving Ability
 <div align="center">
-  <h2>🔎  Problem Solving Ability</h2>
   <a href="https://solved.ac/dlawndgns9/"> 
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlawndgns9" alt="Solved.ac Profile"> 
   </a>
 </div>
+
+## 📚 Develop Study
+
+- Books
+  - Java의 정석 (Author : 남궁성)
+  - OBJECTS (Author : 조영호)
+  - Effective Java (Author : Joshua Bloch)
+  - TDD(Test-Driven Development) (Author : Kent Beck)
+  - Clean Code (Author : Robert C. Martin)
+
+- Taking Online Lecture
+  - Inflearn's Lecture by 김영한
+    - 스프링 완전 정복 로드맵
+    - 스프링 부트와 JPA 실무 완전 정복 로드맵
 
 <!--
 **junghunim07/junghunim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
