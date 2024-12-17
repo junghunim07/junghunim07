@@ -32,7 +32,7 @@
   <tbody> 
     <tr> 
       <td>
-        <a href="https://github.com/junghunim07/busthecall" target="_blank" style="font-weight:bold">BusTheCall</a>
+        <strong><a href="https://github.com/junghunim07/busthecall" target="_blank">BusTheCall</a></strong>
       </td> 
       <td>
         <div style="text-align:center;">
