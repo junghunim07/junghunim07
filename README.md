@@ -119,8 +119,9 @@
   - 스프링 부트와 JPA 실무 완전 정복 로드맵
  
 ## 🌐 My Content
-- E-mail : dlawndgns9@naver.com
-- Notion : 
+- E-mail : junghunim591@gmail.com
+- Notion : [JungHun's Development Study Site](https://courageous-asteroid-4e0.notion.site/Jung-Hun-s-Study-160b6db294bc80d9bd6bd88662ab9e2b?pvs=4)
+- Blog : [JungHun's Blog](https://velog.io/@junghunim07)
 
 <!--
 **junghunim07/junghunim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
