@@ -40,8 +40,10 @@
         <strong><a href="https://github.com/junghunim07/busthecall" target="_blank">BusTheCall</a></strong>
       </th> 
       <th>
-        4학년 캡스톤 디자인 프로젝트<br>
-          <strong>버스 승하차 예약 및 알림 애플리케이션</strong>
+        4학년 캡스톤 디자인 팀 프로젝트<br>
+        <strong>
+          버스 승하차 예약 및 알림 애플리케이션
+        </strong>
       </th> 
       <td> 
         - 버스 및 정류장 검색 기능<br> 
@@ -59,8 +61,10 @@
         <strong><a href="https://github.com/junghunim07/CPP202309-P" target="_blank">성적 관리 시스템</a></strong>
       </th> 
       <th>
-        3학년 C++ 프로젝트<br>
-        <strong>학생 성적 관리</strong>
+        3학년 C++ 개인 프로젝트<br>
+        <strong>
+          학생 성적 관리
+        </strong>
       </th> 
       <td> 
         - 학생들의 기본 정보 입력<br>
