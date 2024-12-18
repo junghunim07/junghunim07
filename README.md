@@ -17,8 +17,8 @@
 ## 📖 Education
 
 ### 🏫 [Chonnam National University](https://www.jnu.ac.kr/jnumain.aspx)
-#### GPA : 3.54 / 4.5  
-#### GPA In Major : 3.82 / 4.5
+###### GPA : 3.54 / 4.5  
+###### GPA In Major : 3.82 / 4.5
 ##### 2019.03 - ing
 * Senior year student, B.S. in [Software Engineering](https://sw.jnu.ac.kr/sw/index.do)
 * Academic Excellence in the 2022 Fall Semester, 2023 Spring Semester and 2024 Spring Semester
@@ -117,8 +117,8 @@
 - TDD(Test-Driven Development) (Author : Kent Beck)
 - Clean Code (Author : Robert C. Martin)
 
-###### Taking Online Lecture
-- Inflearn's Lecture by 김영한
+###### Take Online Lecture
+- **Taking** Inflearn's Lecture by 김영한
   - 스프링 완전 정복 로드맵
   - 스프링 부트와 JPA 실무 완전 정복 로드맵
  
