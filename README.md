@@ -1,15 +1,18 @@
-# :man Lim Jung Hun
+# 🙋‍♂️ Lim Jung Hun
 
 ## 👋 INTRODUCE
 
-* Step By Step for **my Growth**
+* Step By Step for **My Growth**
 * **Chance** is important
-* **Give my best in Every Opportunity**
+* **Proactively** Give **My best** in Every Opportunity
+* **Adapts Well** To Environment
 
 ### 💕 I'm interested in  
   - Object-oriented design
   - SoftWare Architecture
-  - 
+  - Team Project Experience
+  - Collaboration In Team Project
+  - New Experience
 
 ## 📖 Education
 
@@ -19,6 +22,7 @@
 ##### 2019.03 - ing
 * Senior year student, B.S. in [Software Engineering](https://sw.jnu.ac.kr/sw/index.do)
 * Academic Excellence in the 2022 Fall Semester, 2023 Spring Semester and 2024 Spring Semester
+* Participate in the Soccer Club,'Random', for Four Years
 
 ## 🚀 Projects
 
@@ -46,6 +50,23 @@
         - 인공지능 모델를 활용한 버스 시간 예측<br> 
         - 하차 시, 애플리케이션 내 하차 버튼<br> 
         - 기사님에게 다음 정류장 승차 및 하차 인원 푸시 알림 
+      </td>
+    </tr> 
+  </tbody> 
+  <tbody> 
+    <tr> 
+      <th>
+        <strong><a href="https://github.com/junghunim07/CPP202309-P" target="_blank">성적 관리 시스템</a></strong>
+      </th> 
+      <th>
+        3학년 C++ 프로젝트<br>
+        <strong>학생 성적 관리</strong>
+      </th> 
+      <td> 
+        - 학생들의 기본 정보 입력<br>
+        - 학번을 이용해 중간, 기말 성적 기입<br>
+        - 각 학점 별 경계선 점수<br>
+        - 해당 학생의 목표 학점에 필요한 점수 계산
       </td>
     </tr> 
   </tbody> 
@@ -85,17 +106,21 @@
 
 ## 📚 Develop Study
 
-- Books
-  - Java의 정석 (Author : 남궁성)
-  - OBJECTS (Author : 조영호)
-  - Effective Java (Author : Joshua Bloch)
-  - TDD(Test-Driven Development) (Author : Kent Beck)
-  - Clean Code (Author : Robert C. Martin)
+###### Books
+- Java의 정석 (Author : 남궁성)
+- OBJECTS (Author : 조영호)
+- Effective Java (Author : Joshua Bloch)
+- TDD(Test-Driven Development) (Author : Kent Beck)
+- Clean Code (Author : Robert C. Martin)
 
-- Taking Online Lecture
-  - Inflearn's Lecture by 김영한
-    - 스프링 완전 정복 로드맵
-    - 스프링 부트와 JPA 실무 완전 정복 로드맵
+###### Taking Online Lecture
+- Inflearn's Lecture by 김영한
+  - 스프링 완전 정복 로드맵
+  - 스프링 부트와 JPA 실무 완전 정복 로드맵
+ 
+## 🌐 My Content
+- E-mail : dlawndgns9@naver.com
+- Notion : 
 
 <!--
 **junghunim07/junghunim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
