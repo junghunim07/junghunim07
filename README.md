@@ -6,12 +6,13 @@
 * **Chance** is important
 * **Proactively** Give **My best** in Every Opportunity
 * **Adapts Well** To Environment
+* I Like **Discussion** On **Performance** And **Design Improvements** In The Team Project
 
 ### 💕 I'm interested in  
-  - Object-oriented design
+  - Object-Oriented Design
   - SoftWare Architecture
   - Team Project Experience
-  - Collaboration In Team Project
+  - Collaboration
   - New Experience
 
 ## 📖 Education
