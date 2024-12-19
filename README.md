@@ -1,6 +1,6 @@
 # 🙋‍♂️ Lim Jung Hun
 
-## 👋 INTRODUCE
+## 👋 Introduce
 
 * Step By Step for **My Growth**
 * **Chance** is important
