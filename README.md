@@ -27,55 +27,57 @@
 
 ## 🚀 Projects
 
-<table style="width: 100%; table-layout: fixed;"> 
-  <thead> 
-    <tr> 
-      <th style="text-align:center; width: 20%;">📝 Project Name</th> 
-      <th style="text-align:center; width: 40%;">💬 Explanation</th> 
-      <th style="text-align:center; width: 40%;">⚙️ Feature</th> 
-    </tr> 
-  </thead> 
-  <tbody> 
-    <tr> 
-      <th>
-        <strong><a href="https://github.com/junghunim07/busthecall" target="_blank">BusTheCall</a></strong>
-      </th> 
-      <th>
-        4학년 캡스톤 디자인 팀 프로젝트<br>
-        <strong>
-          버스 승하차 예약 및 알림 애플리케이션
-        </strong>
-      </th> 
-      <td> 
-        - 버스 및 정류장 검색 기능<br> 
-        - 비콘을 활용한 승객 위치 추정<br> 
-        - 공공데이터를 활용한 버스 위치 제공<br> 
-        - 인공지능 모델를 활용한 버스 시간 예측<br> 
-        - 하차 시, 애플리케이션 내 하차 버튼<br> 
-        - 기사님에게 다음 정류장 승차 및 하차 인원 푸시 알림 
-      </td>
-    </tr> 
-  </tbody> 
-  <tbody> 
-    <tr> 
-      <th>
-        <strong><a href="https://github.com/junghunim07/CPP202309-P" target="_blank">성적 관리 시스템</a></strong>
-      </th> 
-      <th>
-        3학년 C++ 개인 프로젝트<br>
-        <strong>
-          학생 성적 관리 및 목표 점수 확인 프로그램
-        </strong>
-      </th> 
-      <td> 
-        - 학생들의 기본 정보 입력<br>
-        - 학번을 이용해 중간, 기말 성적 기입<br>
-        - 각 학점 별 경계선 점수<br>
-        - 해당 학생의 목표 학점에 필요한 점수 계산
-      </td>
-    </tr> 
-  </tbody> 
-</table>
+<div align="center">
+  <table style="width: 100%; table-layout: fixed;"> 
+    <thead> 
+      <tr> 
+        <th style="text-align:center; width: 20%;">📝 Project Name</th> 
+        <th style="text-align:center; width: 40%;">💬 Explanation</th> 
+        <th style="text-align:center; width: 40%;">⚙️ Feature</th> 
+      </tr> 
+    </thead> 
+    <tbody> 
+      <tr> 
+        <th>
+          <strong><a href="https://github.com/junghunim07/busthecall" target="_blank">BusTheCall</a></strong>
+        </th> 
+        <th>
+          4학년 캡스톤 디자인 팀 프로젝트<br>
+          <strong>
+            버스 승하차 예약 및 알림 애플리케이션
+          </strong>
+        </th> 
+        <td> 
+          - 버스 및 정류장 검색 기능<br> 
+          - 비콘을 활용한 승객 위치 추정<br> 
+          - 공공데이터를 활용한 버스 위치 제공<br> 
+          - 인공지능 모델를 활용한 버스 시간 예측<br> 
+          - 하차 시, 애플리케이션 내 하차 버튼<br> 
+          - 기사님에게 다음 정류장 승차 및 하차 인원 푸시 알림 
+        </td>
+      </tr> 
+    </tbody> 
+    <tbody> 
+      <tr> 
+        <th>
+          <strong><a href="https://github.com/junghunim07/CPP202309-P" target="_blank">성적 관리 시스템</a></strong>
+        </th> 
+        <th>
+          3학년 C++ 개인 프로젝트<br>
+          <strong>
+            학생 성적 관리 및 목표 점수 확인 프로그램
+          </strong>
+        </th> 
+        <td> 
+          - 학생들의 기본 정보 입력<br>
+          - 학번을 이용해 중간, 기말 성적 기입<br>
+          - 각 학점 별 경계선 점수<br>
+          - 해당 학생의 목표 학점에 필요한 점수 계산
+        </td>
+      </tr> 
+    </tbody> 
+  </table>
+</div>
 
 ## 📄 Resume & Certificate
 * Not yet.. But
