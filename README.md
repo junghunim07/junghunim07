@@ -111,7 +111,7 @@
   </a>
 </div>
 
-## 📚 Develop Study
+## 📚 Study
 
 ###### Books
 - Java의 정석 (Author : 남궁성)
